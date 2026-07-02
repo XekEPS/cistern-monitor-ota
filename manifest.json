@@ -1,0 +1,8 @@
+{
+  "manifest_version": 1,
+  "default": {
+    "version": 20260702,
+    "version_name": "2.1.0",
+    "bin": "firmware/cistern_default_2.1.0.bin"
+  }
+}
